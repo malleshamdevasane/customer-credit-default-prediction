@@ -7,6 +7,8 @@ This project is part of the final term submission for the M.S. in Applied Artifi
 - Malleshan D
 - Dhrub Satyam
 
+## Important Note: This assignment has TurnitinLinks to an external site. enabled for submissions which means that your instructor will obtain an Similarity Report that identifies specific parts of your writing that may indicate a high level of matching to external content. You are strongly encouraged to review your work without penalty by activating the Draft Coach extension in your Google DocsLinks to an external site. prior to submitting your work for final grading.
+
 ## 🧑‍💻 Team Contribution Guide
 
 This project is part of the final term project for the Applied Artificial Intelligence (AAI500) course. Below is the task allocation and folder structure to ensure smooth collaboration.
