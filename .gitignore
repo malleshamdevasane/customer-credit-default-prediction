@@ -1,0 +1,15 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data
+data/raw/
+data/processed/
+data/external/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS-specific
+.DS_Store
