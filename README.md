@@ -22,8 +22,9 @@ This project is part of the final term project for the Applied Artificial Intell
 ### 🔁 Workflow Instructions
 1. **Clone the repo**:  
    
-   git clone https://github.com/dhrubsatyam/customer-credit-default-prediction.git
-   cd customer-credit-default-prediction
+   - git clone https://github.com/dhrubsatyam/customer-credit-default-prediction.git
+   
+   - cd customer-credit-default-prediction
 
 
 ## Project Timeline & Requirements
