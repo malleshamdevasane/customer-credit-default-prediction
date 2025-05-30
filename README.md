@@ -12,25 +12,10 @@ This project is part of the final term submission for the M.S. in Applied Artifi
 This project is part of the final term project for the Applied Artificial Intelligence (AAI500) course. Below is the task allocation and folder structure to ensure smooth collaboration.
 
 ### 👤 Anugrah – Data Preparation & Analysis
-- Work on:
-  - `notebooks/eda/eda_main.ipynb` – Perform exploratory data analysis
-  - `src/data/` – Create reusable functions for loading and cleaning data
-  - `src/features/` – Add scripts for feature engineering
-- Output your cleaned dataset into `data/processed/`
 
 ### 👤 Member 2 – Modeling & Deployment
-- Work on:
-  - `notebooks/modeling/model_training.ipynb` – Try different machine learning models
-  - `notebooks/modeling/model_evaluation.ipynb` – Evaluate and compare models
-  - `src/models/` – Add training, validation, and inference scripts
-- Use processed data from `data/processed/`
 
 ### 👤 Member 3 – Final Analysis, Conclusions & Report
-- Work on:
-  - Contribute to `reports/figures/` for charts and visuals
-  - Create summary and insight slides for the final presentation
-  - Draft the final sections: analysis insights, conclusions, and business recommendations
-  - Compile the final report (PDF) using results from other members
 
 ---
 
