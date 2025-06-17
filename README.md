@@ -15,9 +15,9 @@ This project is part of the final term project for the Applied Artificial Intell
 
 ### 👤 Anugrah – Data Preparation & Analysis
 
-### 👤 Member 2 – Modeling & Deployment
+### 👤 Dhrub – Modeling & Deployment
 
-### 👤 Member 3 – Final Analysis, Conclusions & Report
+### 👤 Mallesham – Final Analysis, Conclusions & Report
 
 ---
 
