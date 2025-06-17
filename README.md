@@ -17,7 +17,7 @@ This project is part of the final term project for the Applied Artificial Intell
 
 ### 👤 Dhrub – Modeling & Deployment
 
-### 👤 Mallesham – Final Analysis, Conclusions & Report
+### 👤 Malleshan – Final Analysis, Conclusions & Report
 
 ---
 
